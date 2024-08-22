@@ -12,8 +12,8 @@ This project is a simple temperature converter utility implemented in C#. It pro
 
 ## Conversion Formulas
 
-- **Celsius to Fahrenheit**: \( F = \left(\frac{C \times 9}{5}\right) + 32 \)
-- **Fahrenheit to Celsius**: \( C = \left(\frac{F - 32}{9}\right) \times 5 \)
+- **Celsius to Fahrenheit**: F =  (celsius * 9 / 5) + 32
+- **Fahrenheit to Celsius**: C =  (fahrenheit - 32) * 5 / 9
 
 ## Project Structure
 
